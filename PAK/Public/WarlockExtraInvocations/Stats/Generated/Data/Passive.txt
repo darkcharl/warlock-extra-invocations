@@ -1,0 +1,7 @@
+new entry "AspectOfMoon"
+type "PassiveData"
+data "DisplayName" "Aspect of Moon"
+data "Description" "You can't be forced to sleep by any means. "
+data "Icon" "Spell_Evocation_Darkvision"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SLEEP)"

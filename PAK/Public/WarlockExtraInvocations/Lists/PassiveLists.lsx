@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="606"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="AgonizingBlast,ArmorOfShadows,AspectOfMoon,BeastSpeech,BeguilingInfluence,DevilsSight,FiendishVigor,MaskOfManyFaces,RepellingBlast,ThiefOfFiveFates"/>
+                    <attribute id="UUID" type="guid" value="333fb1b0-9398-4ca8-953e-6c0f9a59bbed"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="OneWithShadows,SignOfIllOmen,AgonizingBlast,ArmorOfShadows,AspectOfMoon,BeastSpeech,BeguilingInfluence,DevilsSight,FiendishVigor,MaskOfManyFaces,RepellingBlast,ThiefOfFiveFates"/>
+                    <attribute id="UUID" type="guid" value="8adab8f9-e360-4f79-851b-2c7e050ca23d"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="PactOfTheChain"/>
+                    <attribute id="UUID" type="guid" value="8d8ac513-c7c8-4f8b-b67f-5a9a14741aae"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
